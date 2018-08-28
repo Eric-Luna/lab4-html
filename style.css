@@ -1,0 +1,13 @@
+
+.carousel {
+    max-height: 700px;
+    overflow: hidden;
+    padding: 4em;
+}
+
+.card {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+}
+
